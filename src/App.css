@@ -1,0 +1,13 @@
+.wrapper button{
+	background-color: rgb(7, 37, 211);
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 36px;
+	padding: 10px 20px;
+	
+}
+
+.wrapper{
+	padding: 50px;
+	text-align: center;
+}

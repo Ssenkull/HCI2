@@ -1,0 +1,22 @@
+
+.button{
+	background-color: #000;
+	color: #fff;
+	font-size: 20px;
+	padding: 10px 25px;
+}
+
+.item{
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.icon{
+	margin-right: 7px;
+}
+
+.item span{
+	font-size: 12px;
+	margin-left: 5px;
+	color: grey;
+}

@@ -1,0 +1,11 @@
+.card{
+	display: inline-block;
+	border: 1px solid black;
+	/* padding: 10px 25px; */
+	background-color: aliceblue;
+	box-shadow: 3px 2px 1px rgba(128, 128, 128, 0.25);
+	border-radius: 5px;
+	cursor: pointer;
+	user-select: none;
+	margin: 10px;
+}
